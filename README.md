@@ -13,7 +13,7 @@ Airflow, RDS, EC2, S3를 사용하여 ETL PipeLine 구축 및 자동화
 
 ## 📚Stack
 
-![badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Colab&logoColor=white)
+![badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![badge](https://img.shields.io/badge/AmazonS3-009639?style=flat-square&logo=AmazonS3&logoColor=white)
 
 
