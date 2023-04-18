@@ -11,7 +11,7 @@
 * 여러 결론이 나올수 있는 데이터를 가지고 합당하고 납득할만한 결론을 낼수 있는가
 
 ## Data
-https://github.com/sigma-wbi/Section_1_Project/blob/main/vgames2.csv
+https://github.com/sigma-wbi/Game_Analysis_Project/blob/main/vgames2.csv
 
 ## 📚Stack
 ![badge](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
@@ -19,7 +19,7 @@ https://github.com/sigma-wbi/Section_1_Project/blob/main/vgames2.csv
 ![badge](https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ## 분석 과정
-https://github.com/sigma-wbi/Game_Analysis_Project/blob/main/Section_1_Project.ipynb
+https://github.com/sigma-wbi/Game_Analysis_Project/blob/main/Game_Analysis_Project.ipynb
 
 1. 데이터 정제
     - 16598개의 데이터를 .info() 메서드를 통해 데이터셋의 결측값이나 타입 확인
